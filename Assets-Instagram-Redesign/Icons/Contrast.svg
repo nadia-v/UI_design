@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>contrast</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Camera-Settings" transform="translate(-170.000000, -745.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Settings" transform="translate(188.000000, 756.500000) rotate(-90.000000) translate(-188.000000, -756.500000) translate(165.500000, 587.500000)">
+                <g id="Items" transform="translate(10.000000, 31.000000)">
+                    <g id="contrast" transform="translate(12.157895, 131.980926) rotate(-270.000000) translate(-12.157895, -131.980926) translate(1.105263, 120.936970)">
+                        <path d="M11.0528043,0 C4.95821892,0 0,4.95424966 0,11.0436109 C0,17.1336624 4.95821892,22.0879121 11.0528043,22.0879121 C17.1473896,22.0879121 22.1052632,17.1336624 22.1052632,11.0436109 C22.1052632,4.95424966 17.1473896,0 11.0528043,0 Z M1.38160053,11.0436109 C1.38160053,5.71559238 5.72051701,1.38049451 11.0528043,1.38049451 L11.0528043,20.7074176 C5.72051701,20.7074176 1.38160053,16.3719746 1.38160053,11.0436109 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Path 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Message-Typing" transform="translate(-342.000000, -448.000000)" fill="#FFFFFF">
+            <g id="Keyboard" transform="translate(0.000000, 429.000000)">
+                <g id="Write-Message-Container">
+                    <g id="Send-Button" transform="translate(336.000000, 13.000000)">
+                        <polygon id="Path-4" transform="translate(13.000000, 12.000000) rotate(90.000000) translate(-13.000000, -12.000000) " points="13 5 7 19 13 16.2977079 19 19"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
